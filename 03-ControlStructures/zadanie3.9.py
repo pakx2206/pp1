@@ -1,5 +1,0 @@
-print("WPROWADŹ LOSOWE LICZBY!")
-x=int(input())
-y=int(input())
-if x>0 or y>0:print("JEDNA Z WPISANYCH LICZB JEST DODATNIA!")
-else: print("ŻADNA NIE JEST DODATNIA!")
