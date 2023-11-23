@@ -1,1 +1,0 @@
-'uniwersytet'[5]
