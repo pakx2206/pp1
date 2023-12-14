@@ -1,0 +1,4 @@
+halo halo 
+napisalem cos
+zeby to odczytac
+w pythonie
